@@ -1,5 +1,5 @@
 body {
-  background-color: #471559;
+  background-color: #E25AAE;
   color: #ffffff;
   font-size: 18px;
   font-family: sans-serif;
@@ -12,6 +12,10 @@ img {
 h1 {
   text-align: center;
   font-size: 36px;
+}
+
+h2 {
+  text-align: center;
 }
 
 p {
