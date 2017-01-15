@@ -33,6 +33,12 @@ p.summary {
   font-style: italic;
 }
 
+p.best {
+  font-size: 20px;
+  font-weight: bold;
+  color: #604FDD;
+}
+
 ul  {
   line-height: 30px;
 }
