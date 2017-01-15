@@ -1,12 +1,16 @@
 body {
-  background-color: #E25AAE;
-  color: #ffffff;
+  background-color: #3A3A62;
+  color: #E6E993;
   font-size: 18px;
   font-family: sans-serif;
 }
 img {
   margin: auto;
   display: block;
+}
+
+a {
+  color: #26C6D0;
 }
 
 h1 {
@@ -20,6 +24,13 @@ h2 {
 
 p {
   text-align: center;
+}
+
+p.summary {
+  padding-top: 20px;
+  width: 50%;
+  margin: auto;
+  font-style: italic;
 }
 
 ul  {
